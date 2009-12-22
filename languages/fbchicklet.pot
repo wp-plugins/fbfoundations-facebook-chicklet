@@ -1,0 +1,126 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Sudar
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: FBShare .1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/fbchicklet\n"
+"POT-Creation-Date: 2009-10-26 09:32+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. #-#-#-#-#  fbchicklet.pot (Easy Retweet 1.0)  #-#-#-#-#
+#. Plugin Name of an extension
+#: fbchicklet.php:60
+msgid "FB Share"
+msgstr ""
+
+#: fbchicklet.php:86
+msgid "Settings"
+msgstr ""
+
+#: fbchicklet.php:96
+msgid "plugin"
+msgstr ""
+
+#: fbchicklet.php:96
+msgid "Version"
+msgstr ""
+
+#: fbchicklet.php:96
+msgid "by"
+msgstr ""
+
+#: fbchicklet.php:106
+msgid "FB Share Settings"
+msgstr ""
+
+#: fbchicklet.php:134
+msgid "Display"
+msgstr ""
+
+#: fbchicklet.php:136
+msgid "Display the button on pages"
+msgstr ""
+
+#: fbchicklet.php:137
+msgid "Display the button on archive pages"
+msgstr ""
+
+#: fbchicklet.php:138
+msgid "Display the button in home page"
+msgstr ""
+
+#: fbchicklet.php:143
+msgid "Position"
+msgstr ""
+
+#: fbchicklet.php:145
+msgid "Before the content of your post"
+msgstr ""
+
+#: fbchicklet.php:146
+msgid "After the content of your post"
+msgstr ""
+
+#: fbchicklet.php:147
+msgid "Before AND After the content of your post"
+msgstr ""
+
+#: fbchicklet.php:148
+msgid "Manually call the fbchicklet button"
+msgstr ""
+
+#: fbchicklet.php:149
+msgid ""
+"You can manually call the <code>fbchicklet_button</code> function. E.g. "
+"<code>if (function_exists('fbchicklet_button')) echo fbchicklet_button"
+"();."
+msgstr ""
+
+#: fbchicklet.php:154
+msgid "Type"
+msgstr ""
+
+#: fbchicklet.php:156
+msgid "Vertical button"
+msgstr ""
+
+#: fbchicklet.php:157
+msgid "Horizontal button"
+msgstr ""
+
+#: fbchicklet.php:162
+msgid "Text"
+msgstr ""
+
+#: fbchicklet.php:165
+msgid "The text that you enter here will be displayed in the button."
+msgstr ""
+
+#: fbchicklet.php:188
+msgid "Save Changes"
+msgstr ""
+
+#. Plugin URI of an extension
+msgid "http://staynalive.com/fbchicklet"
+msgstr ""
+
+#. Description of an extension
+msgid "Adds a FBShare button to your WordPress posts."
+msgstr ""
+
+#. Author of an extension
+msgid "Jesse Stay"
+msgstr ""
+
+#. Author URI of an extension
+msgid "http://staynalive.com/"
+msgstr ""
