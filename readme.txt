@@ -37,7 +37,7 @@ consider modifying the CSS of your theme's main CSS file.
 
 To implement your Chicklet, just place:
 
-<?php if (function_exists('fbchicklet_button')) echo fbchicklet_button(); ?>
+&lt;?php if (function_exists('fbchicklet_button')) echo fbchicklet_button(); ?&gt;
 
 anywhere in your blog's theme files.  That's it!
 
